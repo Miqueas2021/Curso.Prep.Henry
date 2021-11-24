@@ -1,0 +1,17 @@
+>>Variables: Una variable en un programa es lugar donde se almacena datos que se utilizan en dicho programa. Cuando escribimos código, las variables se pueden utilizar para 
+guardar datos, asignar valores de una variable a otra, representar valores dentro de una expresión matemática o mostrar valores en la pantalla.
+
+>>Strings: Son un tipo de datos que consisten en una cadena de caracteres. Las cadenas de caracteres no son más que un array de caracteres. De esta forma podemos conseguir
+que el usuario introduzca palabras, y no un solo carácter. 
+
+>>Funciones (argumentos, return): Las funciones nos permiten dividir el trabajo que hace un programa, en tareas más pequeñas (funciones) separadas del programa principal. 
+Las funciones pueden tener argumentos. Un "argumento" representa el valor que se pasa a un parámetro, que son los valores que recibe la función como entrada. Una funcion
+puede tener una instrucción "return" que termina la ejecución de la función y que se puede utilizar para devolver valores almacenados en variables de la funcion.
+
+>>Declaraciones if: Un if en programación se utiliza para evaluar una expresión condicional (logica), si se cumple la condición (si es verdadera) que se desea evaluar, la funcion 
+ejecutará un bloque de código que hayamos determinado. Si la condicion no se cumple, es decir si es falsa, es posible ejecutar otras sentencias o no, dependera de
+lo que se quiera realizar. 
+
+>>Valores booleanos (true, false):El tipo de dato booleano es aquel que puede representar valores de lógica binaria, esto es 2 valores, que normalmente 
+representan falso o verdadero. Es decir que los datos booleanos son datos que solo pueden ser unicamente de dos valores. Estos valores son especialmente 
+importantes para las expresiones condicionales y los bucles.
