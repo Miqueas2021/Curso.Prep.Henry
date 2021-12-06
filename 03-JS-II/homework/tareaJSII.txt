@@ -1,0 +1,11 @@
+>> for : es un tipo de bucle que se utiliza para repetir una o más instrucciones un determinado número de veces. 
+De entre todos los bucles, este se suele utilizar cuando sabemos seguro el número de veces que queremos que se ejecute.
+
+>>&& : este operador se entiende como si fuera un "y". Es decir, se utiliza en condiciones de sentencia If para que en vez 
+de una sola condición, exigir se cumplan 2 o más condiciones.
+
+>>|| : es operador es el OR lógico, pensado tambien para manipular solo valores booleanos. Si cualquiera de sus argumentos es true, retorna true,
+ de lo contrario retorna false. Se suele usar en declaraciones if para probar si alguna de las condiciones dadas es true.
+
+>>! : este operador es de negación lógica (Not). Establece una negación lógica en una expresión, es decir, por ejemplo ante una expresión
+cuyo estado lógico es True (verdadero), el operador hará que devuelva False (falso). 
