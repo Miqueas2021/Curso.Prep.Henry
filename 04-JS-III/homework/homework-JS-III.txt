@@ -1,0 +1,3 @@
+Array: Los arrays son objetos que permiten crear una lista de elementos cuyos datos puden ser de cualquier tipo (booleano, entero, undefined,string, etc),
+se comporta como una matriz de elementos. Estos arrays contienen metodos o funciones asociadas que permiten recorrerlos, acceder a elementos, 
+y modidicarlos(se pueden agragar o quitar elementos del mismo).
