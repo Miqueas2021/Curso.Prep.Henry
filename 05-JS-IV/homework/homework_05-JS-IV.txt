@@ -1,0 +1,13 @@
+* Objetos: Un objeto es una colección o agrupacion de propiedades. Se puede decir que son entidades independiente con propiedades que los caracterizan.
+
+* Propiedades, metodos: Las propiedades son la asociación entre un nombre (o clave) y un valor. Los valores que se pueden tener, ademas de los tipos de datos que ya conocemos,
+como son los string, enteros, booleano, etc, las propiedades pueden tener como valor una función (que son llamadas metodos).
+
+* Bucle `for…in`: La instrucción for-in itera sobre todas las propiedades enumerables de un objeto que está codificado por cadenas. Este bucle solo itera 
+sobre propiedades enumerables que no son símbolo.
+
+* Notación de puntos vs notación de corchetes: Ambas son formas distintas de acceder a las propiedades de los objetos. La notación de puntos solo funciona con 
+nombres de propiedades que son válidos. La notación de corchetes espera una expresión que se evalúa como una cadena por lo que puede usar cualquier secuencia de caracteres 
+como nombre de propiedad.
+La notacion corchete se utiliza: 1_Cuando el nombre de la propiedad está contenido en una variable. 2_Cuando el nombre de la propiedad contiene caracteres no permitidos en los identificadores o contiene un espacio o guión.
+La notación de puntos: Se puede utilizar en el resto de las situaciones. Resulta mas agil su utilizacion.
