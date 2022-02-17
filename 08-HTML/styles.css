@@ -1,0 +1,44 @@
+body{background-image: url("https://cloudfront-us-east-1.images.arcpublishing.com/infobae/KN6ANWRNQBE3JG4AZBAFQNYIA4.jpg");
+
+
+  
+}
+
+#thirdDiv{
+    color:rgb(82, 235, 11);
+    font-size: 26px;
+    
+    width:500px;
+    height:600px; 
+    background-color:rgb(236, 226, 226);
+    padding:50px;
+    border: 12px solid grey;
+    
+    margin: auto;
+    background-image: url("https://s0.wklcdn.com/image_21/654018/5617694/4597272Master.jpg");
+    text-align:center;
+  
+    
+
+  }
+#spanId{
+    font-size:24px ; 
+    color:rgb(23, 210, 235);
+   
+
+   
+    
+    
+  }
+
+.divClass{
+    color:rgb(8, 235, 57);
+    text-align:center;
+    top: 50;
+    bottom: 0;
+    left: 0;
+    right: 0;
+           
+    
+
+  }
